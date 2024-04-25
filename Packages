@@ -1,33 +1,33 @@
 Package: com.mixbom.ntwerk+
 Architecture: iphoneos-arm
-Version: 1.0-12+debug
+Version: 1.1
 Section: Tweaks
 Maintainer: mixbom
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.mixbom.ntwerk+_1.0_iphoneos-arm.deb
-Size: 3502
-MD5sum: 72bda34158cadaf6319f034221a47206
-SHA1: affad2c3979f665be87e5a9f536affe306cf6431
-SHA256: 636a87534c819b7fd29da324594db97ada237373507762f113598d28ed0acb37
-SHA512: b7080f621e0b9047c5d52e4e6ac72fbee94ca1f2dbd87d57043f91849f82a513699b6a7a82ad541b259a4ed6980eda8b2bb52a4f050c281646b8e61e458142c6
+Filename: ./debians/com.mixbom.ntwerk+_1.1_iphoneos-arm.deb
+Size: 3610
+MD5sum: 4d42c3364392f5dfecf3c8f535e70c85
+SHA1: 0a7080980c3be7725bc7a6fc10ef01cad256fb79
+SHA256: b4e6a04f48ff4c544f065417a11fb4e4ac4706acc8b7746e6e1c10dacff1b4e8
+SHA512: a6404b5d291404e913fca835ae960d15959a2a9f33c63f595c39c66003eaa5737099dc74be8e8ddc22f7fc1924224d3d7ddc7f75fc2d8ad8e28da72bcc4ac5de
 Description: ntwerk+
 Name: ntwerk+
 Author: mixbom
 
 Package: com.mixbom.ntwerk+
 Architecture: iphoneos-arm64
-Version: 1.0-11+debug
+Version: 1.1
 Section: Tweaks
 Maintainer: mixbom
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.mixbom.ntwerk+_1.0_iphoneos-arm64.deb
-Size: 3582
-MD5sum: 5f9bf1fac9acfc1f7d1fb9071270dd6b
-SHA1: fe926d590c2af65b1688b26c2519ce7a689e83cc
-SHA256: dd558774d89a09865820c8d0d91a6e2dc60c12a6286863ccecd42d09aec4519b
-SHA512: 30f1e7d89a3021ca1e402d4fa295b89dd9e673fdeef538ac981ea290fe919f69071cec0e454ef63f88ea4cad00841e2c93a9b17f45cc5b306221fc633001d321
+Filename: ./debians/com.mixbom.ntwerk+_1.1_iphoneos-arm64.deb
+Size: 3702
+MD5sum: 0f5dd89f2c2265fcabf0728b402d210c
+SHA1: f0c9c91f4dec08790dc7930cea0c527d3fc2a832
+SHA256: a67c6c091489ea8a9cd1c5956833f368bf57b7f29afc20fb42dda324f463909a
+SHA512: 3b22869a826cc3d3c17850f5357e5bdedcca91e68e7e71256e1473fee22d21ee0816b3d8ba6e5f8ad49dfb67aaf3b7c8dbc0ad50cda85b8af868b0112056d870
 Description: ntwerk+
 Name: ntwerk+
 Author: mixbom
